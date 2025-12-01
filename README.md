@@ -50,5 +50,31 @@ Centralizar, organizar e estruturar informações operacionais essenciais:
 
 ---
 
+---
+
+## 🚀 Instalação
+
+---
+
+## 📊 Gráficos sugeridos
+
+- Entregas por mês  
+- Ocorrências por rota  
+- Produtividade dos motoristas  
+- Atrasos por rota  
+- Comparativo Antes × Depois  
+
+---
+
+## 🧑‍💻 Autor
+**Rodrigo Moura Zucatele** – Engenharia de Software – UNIASSELVI (2025)
+
+---
+
+## 📚 Licença
+Projeto acadêmico – livre utilização para fins educacionais.
+
+
+
 ## 📘 DER (Inserir imagem)
 
